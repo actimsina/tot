@@ -6,7 +6,7 @@
 - Polymorphism
 - Coupling and Cohesion
 
-## SOLID Principles (2)
+## SOLID Principles (1)
 
 - Single Responsibility Principle
 - Open/Close Principle
@@ -14,17 +14,18 @@
 - Interface Segregation Principle
 - Dependency Inversion Principle 
 
-## Design Patterns
+## Design Patterns (7)
 
-- Strategy 1
-- Observer 1
+- Strategy 
+- Observer 
 
-- Singleton  1
-- Simple Factory  1
-- Abstract Factory  1
+- Singleton  
+- Simple Factory  
+- Abstract Factory  
 
 - Facade
-- Flyweight 1
-- MVC 1
+- Flyweight 
+- MVC 
+- Adapter
 
 
